@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CryptoBud</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">History</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="encrypt"> Encrypt your message </string>
+    <string name="encrypted"> Encrypted message will be below </string>
+    <string name="welcome"> Welcome :) </string>
+    <string name="button_encrypt"> Encrypt</string>
+    <string name="button_decrypt"> Decrypt</string>
+    <string name="key"> Your key will be here</string>
+    <string name="enter_keys"> Your key will be here</string>
+    <string name="enter_your_message">Enter your message</string>
+    <string name="enter_key">Enter Key (only for Caesar and Decryption)</string>
+    <string name="type">Type</string>
+    <string name="algorithm">Algorithm</string>
+    <string name="item_key">Key</string>
+    <string name="delete_all">Delete All</string>
+
+    <string-array name="encryption_type">
+        <item>Caesar</item>
+        <item>RSA</item>
+        <item>AES</item>
+    </string-array>
+</resources>
